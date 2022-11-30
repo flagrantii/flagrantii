@@ -1,5 +1,5 @@
 # Hello World⚡
-![](./profile-3d-contrib/profile-3d-contrib/profile-night-rainbow.svg)
+![3d](./profile-3d-contrib/profile-night-rainbow.svg)
 ##
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=flagrantii&show_icons=true&theme=great-gatsby#gh-dark-mode-only)](https://github.com/flagrantii/github-readme-stats#gh-dark-mode-only)
 ##

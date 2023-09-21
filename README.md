@@ -15,6 +15,7 @@
 
 ## Journey
 Tanuson was a young(18) programmer from Thailand 🇹🇭 who had a passion for coding.
+I'm a software engineer from Thailand. I study in computer engineering from Chulalongkorn University and I'm currently working as a frontend developer at Ever Medical Technology Co., Ltd.
 
 ## GitHub Stats
 <div align ="center">

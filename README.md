@@ -14,8 +14,37 @@
 <h3 align="center"> => <a href="https://hosting-e1640.web.app/">My Homepage</a> <= </h3>
 
 ## Journey
-Tanuson was a young(18) programmer from Thailand 🇹🇭 who had a passion for coding.
-I'm a software engineer from Thailand. I study in computer engineering from Chulalongkorn University and I'm currently working as a frontend developer at Ever Medical Technology Co., Ltd.
+I'm a programmer from Thailand. I study in computer engineering from Chulalongkorn University and I'm currently working as a frontend developer at Ever Medical Technology Co., Ltd.
+
+## Skills
+- JavaScript/TypeScript
+- React/Redux/Next.js
+- Vue/Nuxt.js
+- Node.js/Express
+- MongoDB/MySQL
+- Figma
+- Three.js
+- Dart/Flutter
+- Java/C++ Programming
+
+## Projects and Achievements
+- [Personal Website](^1^) A personal website that showcases my skills, projects, and contact information using three.js.
+- [TachCave](^1^) The website collects various activities and events related to technology and creates profiles for high school age groups.
+- [One More Friend](^1^) A conversational agent that can answer questions and be your friend.
+- [Stack Selector](^1^) The website แhoose tools for developing apps and websites and compare their quality.
+
+## Deployed/Published Projects
+
+<details>
+ <summary>Clone Web App</summary>
+
+- [Messenger](^1^) => Next.js, React, Tailwind, Prisma, MongoDB, NextAuth, Pusher
+- [Spotify](^1^) => Next.js, React, Stripe, Supabase, PostgreSQL, Tailwind
+- [Airbnb](^1^) => Next.js 13 App Router, Reactjs, Tailwind CSS, Prisma, Node.js, Typescript, Zustand. We will be using Amplication for the backend
+
+and more
+
+</details>
 
 ## GitHub Stats
 <div align ="center">

@@ -14,7 +14,7 @@
 <h3 align="center"> > <a href="https://tanuson-page.vercel.app/">My Homepage</a> < </h3>
 
 ## Journey
-I'm a programmer from Thailand. I study in computer engineering from Chulalongkorn University and I'm currently working as a frontend developer at Ever Medical Technology Co., Ltd.
+A motivated and highly detail-oriented Software Engineer with a proven track record of designing, developing, and implementing innovative software solutions. Proficient in full-stack development, with expertise in front-end and back-end technologies. Skilled in problem-solving and troubleshooting to ensure optimal functionality and performance. Continuously stay abreast of emerging technologies and industry trends to drive the adoption of best practices. Committed to delivering excellence in every phase of the software development life cycle.
 
 ## Skills
 - JavaScript/TypeScript

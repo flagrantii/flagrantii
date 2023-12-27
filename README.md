@@ -2,7 +2,7 @@
   Tanuson Deachaboonchana
 </h1>
 
-<p align="center">Fullstack Developer and UX Ui Designer</p>
+<p align="center">Software Engineer | UX Ui Designer | Business Analyst</p>
 
 <p align="center">
 <a href="https://www.instagram.com/te_nus0n/"><img src="https://img.shields.io/badge/te_nus0n_-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>

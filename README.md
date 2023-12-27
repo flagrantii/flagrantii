@@ -20,12 +20,13 @@ I'm a programmer from Thailand. I study in computer engineering from Chulalongko
 - JavaScript/TypeScript
 - React/Redux/Next.js
 - Vue/Nuxt.js
-- Node.js/Express
-- MongoDB/MySQL
+- Node.js / Express.js / Nest.js
+- MongoDB / MySQL / Supabase
 - Figma
-- Three.js
-- Dart/Flutter
-- Java/C++ Programming
+- Dart / Flutter
+- Java OOP / Spring boot
+- Go Fiber
+- C++ Programming
 
 ## Projects and Achievements
 - [Personal Website](^1^) A personal website that showcases my skills, projects, and contact information using three.js.

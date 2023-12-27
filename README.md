@@ -40,16 +40,11 @@ A motivated and highly detail-oriented Software Engineer with a proven track rec
 
 ## Deployed/Published Projects
 
-<details>
- <summary>Clone Web App</summary>
-
+Clone Web App
 - [Messenger](^1^) => Next.js, React, Tailwind, Prisma, MongoDB, NextAuth, Pusher
 - [Spotify](^1^) => Next.js, React, Stripe, Supabase, PostgreSQL, Tailwind
 - [Airbnb](^1^) => Next.js 13 App Router, Reactjs, Tailwind CSS, Prisma, Node.js, Typescript, Zustand. We will be using Amplication for the backend
-
 and more
-
-</details>
 
 ## GitHub Stats
 <div align ="center">

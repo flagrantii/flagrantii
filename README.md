@@ -31,6 +31,7 @@ A motivated and highly detail-oriented Software Engineer with a proven track rec
 - Java OOP / Spring boot
 - Go Fiber
 - C++ Programming
+- Python / Django
 
 ## Projects and Achievements
 - [Personal Website](^1^) A personal website that showcases my skills, projects, and contact information using three.js.

@@ -37,7 +37,7 @@ A motivated and highly detail-oriented Software Engineer with a proven track rec
 - [Personal Website](^1^) A personal website that showcases my skills, projects, and contact information using three.js.
 - [TachCave](^1^) The website collects various activities and events related to technology and creates profiles for high school age groups.
 - [One More Friend](^1^) A conversational agent that can answer questions and be your friend.
-- [Stack Selector](^1^) The website แhoose tools for developing apps and websites and compare their quality.
+- [Stack Selector](^1^) The website choose tools for developing apps and websites and compare their quality.
 
 ## Deployed/Published Projects
 

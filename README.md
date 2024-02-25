@@ -36,6 +36,7 @@ A motivated and highly detail-oriented Software Engineer with a proven track rec
 ![React](https://img.shields.io/badge/-ReactJS-05122A?style=falt&logo=React)
 ![React Native](https://img.shields.io/badge/-React_Native-05122A?style=falt&logo=React)
 ![Nodejs](https://img.shields.io/badge/-NodeJS-05122A?style=falt&logo=Node.js)
+![Express](https://img.shields.io/badge/-Express-05122A?style=falt&logo=Express)
 ![Nestjs](https://img.shields.io/badge/-NestJS-05122A?style=falt&logo=NestJs&logoColor=red)
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=falt&logo=Flutter&logoColor=skyblue)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=falt&logo=Tailwind%20CSS&logoColor=skyblue)

@@ -24,6 +24,7 @@ A motivated and highly detail-oriented Software Engineer with a proven track rec
 - Languages -  ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=falt&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=falt&logo=typescript)
 ![Go](https://img.shields.io/badge/-Go-05122A?style=falt&logo=go)
+![Rust](https://img.shields.io/badge/-Rust-05122A?style=falt&logo=Rust)
 ![C++](https://img.shields.io/badge/-C++-05122A?style=falte&logo=cplusplus)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=falt&logo=python)
 ![Java](https://img.shields.io/badge/-Java-05122A?style=falt&logo=java)
@@ -37,21 +38,29 @@ A motivated and highly detail-oriented Software Engineer with a proven track rec
 ![React Native](https://img.shields.io/badge/-React_Native-05122A?style=falt&logo=React)
 ![Nodejs](https://img.shields.io/badge/-NodeJS-05122A?style=falt&logo=Node.js)
 ![Express](https://img.shields.io/badge/-Express-05122A?style=falt&logo=Express)
+![Fastify](https://img.shields.io/badge/-Fastify-05122A?style=falt&logo=Fastify)
 ![Nestjs](https://img.shields.io/badge/-NestJS-05122A?style=falt&logo=NestJs&logoColor=red)
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=falt&logo=Flutter&logoColor=skyblue)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=falt&logo=Tailwind%20CSS&logoColor=skyblue)
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=falt&logo=Laravel)
 ![Django](https://img.shields.io/badge/-Django-05122A?style=falt&logo=Django)
+![Spring](https://img.shields.io/badge/-Spring-05122A?style=falt&logo=Spring)
+
 - Databases - ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=falt&logo=PostgreSQL)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=falt&logo=MongoDB)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=falt&logo=MySQL)
+![Supabase](https://img.shields.io/badge/-Supabase-05122A?style=falt&logo=Supabase)
+
 - Tools - ![Git](https://img.shields.io/badge/-git-05122A?style=falt&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=falt&logo=Docker)
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=falt&logo=Postman)
+![Insomnia](https://img.shields.io/badge/-Insomnia-05122A?style=falt&logo=Insomnia)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=falt&logo=Kubernetes)
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=falt&logo=Figma)
 ![AndroidStudio](https://img.shields.io/badge/-Android_Studio-05122A?style=falt&logo=Android)
 ![PowerBI](https://img.shields.io/badge/-PowerBI-05122A?style=falt&logo=PowerBI)
+![amazonaws](https://img.shields.io/badge/-AWS-05122A?style=falt&logo=amazonaws)
+
 
 ## Projects and Achievements
 - [Personal Website](^1^) A personal website that showcases my skills, projects, and contact information using three.js.

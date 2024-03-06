@@ -36,6 +36,7 @@ A motivated and highly detail-oriented Software Engineer with a proven track rec
 ![Vuejs](https://img.shields.io/badge/-VueJS-05122A?style=falt&logo=Vue.js)
 ![React](https://img.shields.io/badge/-ReactJS-05122A?style=falt&logo=React)
 ![React Native](https://img.shields.io/badge/-React_Native-05122A?style=falt&logo=React)
+![Redux](https://img.shields.io/badge/-Redux-05122A?style=falt&logo=Redux)
 ![Nodejs](https://img.shields.io/badge/-NodeJS-05122A?style=falt&logo=Node.js)
 ![Express](https://img.shields.io/badge/-Express-05122A?style=falt&logo=Express)
 ![Fastify](https://img.shields.io/badge/-Fastify-05122A?style=falt&logo=Fastify)

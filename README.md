@@ -27,7 +27,7 @@ A motivated and highly detail-oriented Software Engineer with a proven track rec
 ![Rust](https://img.shields.io/badge/-Rust-05122A?style=falt&logo=Rust)
 ![C++](https://img.shields.io/badge/-C++-05122A?style=falte&logo=cplusplus)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=falt&logo=python)
-![Java](https://img.shields.io/badge/-Java-05122A?style=falt&logo=java)
+![Java](https://img.shields.io/badge/-Java-05122A?style=falt&logo=Oracle)
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=falt&logo=Dart&logoColor=blue)
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=falt&logo=php)
 

@@ -74,7 +74,7 @@ A motivated and highly detail-oriented Software Engineer with a proven track rec
 Clone Web App
 - [Messenger](^1^) => Next.js, React, Tailwind, Prisma, MongoDB, NextAuth, Pusher
 - [Spotify](^1^) => Next.js, React, Stripe, Supabase, PostgreSQL, Tailwind
-- [Airbnb](^1^) => Next.js 13 App Router, Reactjs, Tailwind CSS, Prisma, Node.js, Typescript, Zustand. We will be using Amplication for the backend
+- [Airbnb](https://rent-red-example-8geaeh80f-flagrantiis-projects.vercel.app/) => Next.js 13 App Router, Reactjs, Tailwind CSS, Prisma, Node.js, Typescript, Zustand. We will be using Amplication for the backend
 and more
 
 ## GitHub Stats

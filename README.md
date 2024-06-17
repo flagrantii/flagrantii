@@ -6,9 +6,10 @@
 
 <p align="center">
 <a href="https://www.instagram.com/te_nus0n/"><img src="https://img.shields.io/badge/te_nus0n_-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-<a href="https://twitter.com/TanusonD10318"><img src="https://img.shields.io/badge/TanusonD10318-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+<a href="https://twitter.com/TanusonD10318"><img src="https://img.shields.io/badge/TanusonD10318-%230F0205.svg?style=for-the-badge&logo=X&logoColor=white"></a>
 <a href="mailto:tanuson679@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.facebook.com/profile.php?id=100018165305200"><img src="https://img.shields.io/badge/Tae Tanuson-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/tanuson-deachaboonchana-743a3029b/"><img src="https://img.shields.io/badge/Tanuson Deachaboonchana-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
 </p>
 
 <h3 align="center"> > <a href="https://tanuson-page.vercel.app/">Homepage</a> < </h3>

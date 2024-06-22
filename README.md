@@ -30,20 +30,26 @@ A motivated and highly detail-oriented Software Engineer with a proven track rec
 
 Becanuse I ' m Software Engineer eiei
 
+## Experience
+- 12 months of part-time software development experience at a startup (as of June 20, 2024)
+- Develoepr of ISD (Information System Development) under the Chulalongkorn University Student Union, developing websites, applications, and information systems to benefit students.
+- Core Team 2024 of Google Developer Student Clubs in Chulalongkorn University
 
-## Projects and Achievements
-- [Personal Website](https://tanuson-page.vercel.app/) A personal website that showcases my skills, projects, and contact information using three.js.
-- [TachCave](^1^) The website collects various activities and events related to technology and creates profiles for high school age groups.
-- [One More Friend](^1^) A conversational agent that can answer questions and be your friend.
-- [Stack Selector](^1^) The website choose tools for developing apps and websites and compare their quality.
+## Achievements
+- Not now :(
 
-## Deployed/Published Projects
+## Projects
+- [CUNEXT event]() =>  HackChula platform that enhances university event discovery, organization, and management for students and faculty. Built with React Native and Expo.
+- [Personal Website]() => A portfolio website showcasing my professional achievements, personal interests, and background information, providing a comprehensive view of my life and work.
+- [Mine Sweeper]() => A classic Minesweeper game developed using JavaFX, providing an interactive and engaging gaming experience with a modern user interface.
+- [Trip Recommendation]() => AI-powered web app recommending personalized trips in Bangkok, offering users tailored travel suggestions based on preferences and interests.
+- [Carbon Credit Marketplace]() =>  Web app facilitating the trading of carbon credits through the purchase of clothing items, promoting sustainable fashion.
+- [Golang Concurrency API]() => Intern project focused on developing a Golang API with concurrency control, ensuring efficient and optimized processing.
+- [Massage Reservation]() => Web app designed for booking and managing massage appointments, streamlining the reservation process for users and service providers.
+- [Ranfoom]() =>  A Flutter application that randomly selects food options, providing a fun and easy way to decide meals.
 
 Clone Web App
-- [Messenger](^1^) => Next.js, React, Tailwind, Prisma, MongoDB, NextAuth, Pusher
-- [Spotify](^1^) => Next.js, React, Stripe, Supabase, PostgreSQL, Tailwind
 - [Airbnb](https://rent-red-example.vercel.app/) => Next.js 13 App Router, Reactjs, Tailwind CSS, Prisma, Node.js, Typescript, Zustand. We will be using Amplication for the backend
-and more
 
 ## GitHub Stats
 <div align ="center">

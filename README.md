@@ -89,13 +89,13 @@ A motivated and highly detail-oriented Software Engineer with a proven track rec
 # Projects
 
 ### Projects
-- [CUNEXT event]() =>  HackChula platform that enhances university event discovery, organization, and management for students and faculty. Built with React Native and Expo.
-- [Personal Website]() => A portfolio website showcasing my professional achievements, personal interests, and background information, providing a comprehensive view of my life and work.
-- [Mine Sweeper]() => A classic Minesweeper game developed using JavaFX, providing an interactive and engaging gaming experience with a modern user interface.
-- [Trip Recommendation]() => AI-powered web app recommending personalized trips in Bangkok, offering users tailored travel suggestions based on preferences and interests.
-- [Carbon Credit Marketplace]() =>  Web app facilitating the trading of carbon credits through the purchase of clothing items, promoting sustainable fashion.
+- [CUNEXT event](https://github.com/flagrantii/cunext-event) =>  HackChula platform that enhances university event discovery, organization, and management for students and faculty. Built with React Native and Expo.
+- [Personal Website](https://github.com/flagrantii/tanusonPage) => A portfolio website showcasing my professional achievements, personal interests, and background information, providing a comprehensive view of my life and work.
+- [Mine Sweeper](https://github.com/flagrantii/Minesweeper-java) => A classic Minesweeper game developed using JavaFX, providing an interactive and engaging gaming experience with a modern user interface.
+- [Trip Recommendation](https://github.com/flagrantii/DemoTripReecommend) => AI-powered web app recommending personalized trips in Bangkok, offering users tailored travel suggestions based on preferences and interests.
+- [Carbon Credit Marketplace](https://github.com/flagrantii/CaronCredit-main) =>  Web app facilitating the trading of carbon credits through the purchase of clothing items, promoting sustainable fashion.
 - [Golang Concurrency API]() => Intern project focused on developing a Golang API with concurrency control, ensuring efficient and optimized processing.
-- [Massage Reservation]() => Web app designed for booking and managing massage appointments, streamlining the reservation process for users and service providers.
+- [Massage Reservation](https://github.com/flagrantii/Massage-Reservation-2) => Web app designed for booking and managing massage appointments, streamlining the reservation process for users and service providers.
 - [Ranfoom]() =>  A Flutter application that randomly selects food options, providing a fun and easy way to decide meals.
 
 ### Clone Web App

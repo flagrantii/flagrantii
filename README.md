@@ -24,6 +24,7 @@ A motivated and highly detail-oriented Software Engineer with a proven track rec
 - 3 months of internship software development at [Blockfint](https://www.blockfint.com/th/about)
 - Develoepr of ISD (Information System Development) developing websites, applications, and information systems to benefit students.
 - Core Team 2024 of Google Developer Student Clubs in Chulalongkorn University
+- Core Team of Thinc. (Thiland Incubator)
 
 <br>
 
